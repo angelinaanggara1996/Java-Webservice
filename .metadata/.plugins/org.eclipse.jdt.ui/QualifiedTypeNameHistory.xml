@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.validator.constraints.Length"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicLong"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="com.codahale.metrics.annotation.Timed"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.QueryParam"/>
+    <fullyQualifiedTypeName name="com.javaeee.helloworld.api.Saying"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="com.javaeee.helloworld.resources.HelloWorldResource"/>
+    <fullyQualifiedTypeName name="com.codahale.metrics.health.HealthCheck"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="com.javaeee.helloworld.health.TemplateHealthCheck"/>
+    <fullyQualifiedTypeName name="com.javaeee.helloworld.HelloWorldConfiguration"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.Identifiers"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.sdk.server.api.Namespace"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.types.builtin.ExpandedNodeId"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.types.structured.ReadValueId"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.AttributeId"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.types.structured.ReadResponse"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.core.pattern.parser.Node"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.types.builtin.unsigned.Unsigned"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.types.enumerated.TimestampsToReturn"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.types.builtin.NodeId"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.types.builtin.DataValue"/>
+    <fullyQualifiedTypeName name="org.eclipse.milo.opcua.stack.core.types.builtin.Variant"/>
+</qualifiedTypeNameHistroy>
